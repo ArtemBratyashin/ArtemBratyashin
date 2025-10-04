@@ -2,7 +2,7 @@
 **Data Analyst**
 
 📱 **Тел.:** 89624366700  
-📞 **Telegram:** [@Bra_Artem](https://t.me/Bra_Artem)
+📞 **Telegram:** [@Bra_Artem](https://t.me/Bra_Artem)  
 📧 **Почта:** bratiashin.aa21@physics.msu.ru  
 🌍 **Английский:** Intermediate
 
