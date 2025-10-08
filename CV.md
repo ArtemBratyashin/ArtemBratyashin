@@ -1,5 +1,4 @@
-# Братяшин Артём
-**Data Analyst**
+# Братяшин Артём - Data Analyst
 
 📞 **Telegram:** [@Bra_Artem](https://t.me/Bra_Artem)  
 📧 **Почта:** bratiashin.aa21@physics.msu.ru  
