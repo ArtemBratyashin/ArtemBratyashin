@@ -18,21 +18,15 @@
 
 ## 🛠️ Технологический стек
 
-**Machine Learning & Data Science:**  
-Python · pandas · numpy · scikit-learn · matplotlib · SQL
-
-**NLP & Automation:**  
-sbert · Selenium · requests
-
-**Разработка и тесты:**  
-Git · FastAPI · unittest · Jupyter
+**Разработка:**  
+Python (pandas, numpy, scikit-learn, FastAPI, matplotlib, selenium, requests, unittest) · Jupyter · C++ · SQL · Git
 
 **Работа с продуктом:**  
 Excel · PowerPoint · Google Workspace · Яндекс Трекер · Miro · Agile/SCRUM
 
 ---
 
-## 🚀 Ключевой проект
+## 🚀 Pet проект
 
 ### [DemandPredictor](https://github.com/ArtemBratyashin/DemandPredictor) — ML-система для прогнозирования сделок с недвижимостью
 
