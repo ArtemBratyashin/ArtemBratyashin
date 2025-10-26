@@ -19,13 +19,13 @@
 ## 🛠️ Технологический стек
 
 **Machine Learning & Data Science:**  
-Python · pandas · numpy · scikit-learn · XGBoost · matplotlib · seaborn · SQL
+Python · pandas · numpy · scikit-learn · matplotlib · SQL
 
 **NLP & Automation:**  
-sbert · Selenium · requests · BeautifulSoup
+sbert · Selenium · requests
 
 **Разработка и тесты:**  
-Git · FastAPI · unittest · pytest · Jupyter
+Git · FastAPI · unittest · Jupyter
 
 **Работа с продуктом:**  
 Excel · PowerPoint · Google Workspace · Яндекс Трекер · Miro · Agile/SCRUM
