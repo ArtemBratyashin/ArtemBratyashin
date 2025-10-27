@@ -10,7 +10,7 @@
 
 ## Умения
 
-**ML:** Python (pandas, numpy, scikit-learn, xgboost, matplotlib, selenium, unittest, requests), SQL.
+**ML:** Python (pandas, numpy, scikit-learn, xgboost, matplotlib, selenium, unittest, requests, FastAPI), SQL.
 
 **Другие:** Excel, PowerPoint, Git, HTML, C++, Google Workspace, Яндекс Трекер, Miro, Agile/SCRUM.
 
