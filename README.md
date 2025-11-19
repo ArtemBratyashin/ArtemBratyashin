@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://t.me/Bra_Artem"><img src="https://img.shields.io/badge/Telegram-@Bra__Artem-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:bratiashin.aa21@physics.msu.ru"><img src="https://img.shields.io/badge/Email-bratiashin.aa21@physics.msu.ru-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:artem.bratyashin@gmail.com"><img src="https://img.shields.io/badge/Email-artem.bratyashin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/ArtemBratyashin/ArtemBratyashin/blob/main/CV.md"><img src="https://img.shields.io/badge/CV-Резюме-success?style=flat-square" alt="CV"/></a>
 </p>
 
