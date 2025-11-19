@@ -28,5 +28,5 @@
 ## 📫 Связаться со мной
 
 - **Telegram:** [@Bra_Artem](https://t.me/Bra_Artem)
-- **Email:** [bratiashin.aa21@physics.msu.ru](mailto:bratiashin.aa21@physics.msu.ru)
+- **Email:** [artem.bratyashin@gmail.com](mailto:artem.bratyashin@gmail.com)
 - **CV:** [ArtemBratyashin/CV.md](https://github.com/ArtemBratyashin/ArtemBratyashin/blob/main/CV.md)
