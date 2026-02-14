@@ -1,4 +1,4 @@
-# 👨‍💻 Артём Братяшин — Data Analyst & ML Engineer
+# 👨‍💻 Артём Братяшин — Data Analyst
 
 <p align="center">
   <a href="https://t.me/Bra_Artem"><img src="https://img.shields.io/badge/Telegram-@Bra__Artem-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
