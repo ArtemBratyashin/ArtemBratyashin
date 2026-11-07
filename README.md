@@ -2,19 +2,18 @@
 
 <p align="center">
   <a href="https://t.me/Bra_Artem"><img src="https://img.shields.io/badge/Telegram-@Bra__Artem-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:artem.bratyashin@gmail.com"><img src="https://img.shields.io/badge/Email-artem.bratyashin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/ArtemBratyashin/ArtemBratyashin/blob/main/CV.md"><img src="https://img.shields.io/badge/CV-Резюме-success?style=flat-square" alt="CV"/></a>
 </p>
 
 ---
 
-## 📌 О себе
+## О себе
 
 Аналитик данных с физико-математической подготовкой и опытом в продуктовом и маркетинговом анализе. Работаю на стыке аналитики и продакт-подхода, умею коммуницировать сложные ML-результаты для нематематической аудитории, визуализировать инсайты и превращать код в реальную ценность для заказчика.
 
 ---
 
-## 🚀 Pet проект
+## Проекты
 
 ### [CAZ_Parser](https://github.com/ArtemBratyashin/CAZ_parser) — бот для парсинга источников кафедр ФФ МГУ для проекта КАЯ
 
@@ -26,11 +25,3 @@
 - Модель предсказывает количество сделок компании ПИК в Москве на следующий месяц с точностью **MAPE = 5.39%**
 - Использует данные о целевой аудитории, характеристиках квартир, макроэкономике и интернет-сентименте
 - В проекте реализован REST API (FastAPI), CLI для запуска экспериментов и валидация моделей через автоматические тесты
-
----
-
-## 📫 Связаться со мной
-
-- **Telegram:** [@Bra_Artem](https://t.me/Bra_Artem)
-- **Email:** [artem.bratyashin@gmail.com](mailto:artem.bratyashin@gmail.com)
-- **CV:** [ArtemBratyashin/CV.md](https://github.com/ArtemBratyashin/ArtemBratyashin/blob/main/CV.md)
